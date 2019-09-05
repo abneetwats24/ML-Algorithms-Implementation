@@ -1,0 +1,1 @@
+Implementation of well known ml algorithms like linear regression, logistic regression, K-nearestNeighbour classification in python. Using sklearn and numpy library.
